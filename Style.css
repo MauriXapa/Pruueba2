@@ -1,0 +1,16 @@
+.img-fluid{
+    width: auto;
+    height: auto;
+}
+.col-12 {
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+.box {
+    width: 200px;
+  }
+h1,h2,h3,h4{
+    color:white;
+
+
+}
